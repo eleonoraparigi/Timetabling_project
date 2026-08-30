@@ -5,3 +5,6 @@ class;hour_per_week;afternoon1;afternoon2
 2A;32h;thu;
 2B;30h;;
 2C;34h;mon;wed
+3A;32h;tue;
+3B;30h;;
+3C;34h;mon;wed
